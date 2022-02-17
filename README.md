@@ -105,9 +105,7 @@ rosrun slam_tutorial gtsam_spg
 
 You could visualize `.csv` files, with [Matlab](https://kr.mathworks.com/products/matlab.html).  
 I got different results because I designed the error function differently.  
-$$  
-e(i,j) 
-$$  
+<p align="center"><img src="/result/error_function.gif" width = "150" ></p>  
 
 - Initial pose  
 
