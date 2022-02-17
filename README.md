@@ -277,7 +277,7 @@ x5 covariance:
 
 If you have any question, feel free to send an email.  
 
-- TaeYoung Kim : tyoung96@yonsei.ac.kr  
+- **TaeYoung Kim** : tyoung96@yonsei.ac.kr  
 
 
 
