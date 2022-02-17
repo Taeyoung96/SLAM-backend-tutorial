@@ -4,7 +4,8 @@ You could see the Video lecture on [Youtube](https://youtu.be/FhwFyA0NQkE).
 
 The original code, slides, and notes are available in [Google drive](https://drive.google.com/drive/folders/1_MLRQMvRuXvyxVl6514M20zcFY4-O4pI?usp=sharing).  
 
-`slam_tutorial/` folder involves my personal solution, and  `slam_tutorial_solution/` involves given solution.  
+`slam_tutorial/` folder involves my personal solution,  
+and  `slam_tutorial_solution/` involves given solution.  
 The contents are almost similar.  
 
 I test this repository on Ubuntu 18.04.  
