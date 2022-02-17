@@ -13,6 +13,7 @@ I test this repository on Ubuntu 18.04.
 - [How to make same enviornment with Docker.](#how-to-make-same-enviornment-with-docker)  
 - [How to execute this code.](#how-to-execute-this-code)  
 - [Result](#result)  
+- [Contact](#contact) 
 
 ## How to make same enviornment with Docker.  
 
@@ -272,6 +273,11 @@ x5 covariance:
 
 ```
 
+## Contact  
+
+If you have any question, feel free to send an email.  
+
+- TaeYoung Kim : tyoung96@yonsei.ac.kr  
 
 
 
